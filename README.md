@@ -19,4 +19,8 @@
 
 ### NOTES from Getting started
 -   open Source == everybody can use
--   
+-
+
+  
+### Notes from Arduino foundations
+-  
