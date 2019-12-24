@@ -16,3 +16,7 @@
 - git commit -m "some meaningful message"
 - git pull
 - git status
+
+### NOTES from Getting started
+-   open Source == everybody can use
+-   
