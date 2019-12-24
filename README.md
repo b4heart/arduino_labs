@@ -23,4 +23,19 @@
 
   
 ### Notes from Arduino foundations
--  
+- Simple robot project
+- A stands for anolog pins
+- ~ stands for pulse width modulation signals (3, 5, 6, 9, 10, 11) - For running motors
+- TX == Transmitter 
+- RX == Receiver
+- Microcontroller is a cheap and simple CPU == ATMega328T on Arduino Uno
+- Arduino uno has 5v and 3.3v along with GND (ground or zero volts)
+- 0-13 pins are ioputs in Uno
+- 0 and 1 can also be used for TX and RX
+- Anolog devices: Motor, Temperature and Light sensors
+- Voltage: VIN == Voltage in (from external source like solar panel)
+- Voltage: 5v or 3.3v provides output respectively
+- GND  - common ground
+- IDE: Write compile and upload
+- 
+ 
