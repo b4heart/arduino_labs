@@ -37,5 +37,13 @@
 - Voltage: 5v or 3.3v provides output respectively
 - GND  - common ground
 - IDE: Write compile and upload
-- 
- 
+s in setup functionl. 
+- IDE (integrated development enviornment): Use preferences to custom the look & feel
+- Use File -> Examples to know pre-loaded examples
+- Use Tools to link to the right Arduino and COM4 (connection)
+- Codes are called as Sketch
+- setup() -> runs only once. For input and outputs .. or for initializations
+- loop() -> this code goes repeatedly, until powered off or conditionally exited. Usually, the real logic resides here.
+- pinMode(pinname, input/output/input_pullup). Written in setup()
+- digitalWrite(pin, HIGH/LOW)
+
