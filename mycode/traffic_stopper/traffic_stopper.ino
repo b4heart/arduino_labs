@@ -24,26 +24,26 @@ void loop() {
   digitalWrite(GreenLed,LOW);
   digitalWrite(YellowLed,HIGH);
   digitalWrite(RedLed,LOW);
-  delay(4000);
+  delay(2000);
   Serial.println("yellow light on!!!!!!!!!!!!!!!!!!!!!!!!!");
 
   digitalWrite(GreenLed,HIGH);
   digitalWrite(YellowLed,LOW);
   digitalWrite(RedLed,LOW);
-  delay(4000);
+  delay(10000);
   Serial.println("green light on!!!!!!!!!!!!!!!!!!!!!!!!!");
 
   digitalWrite(GreenLed,LOW);
   digitalWrite(YellowLed,HIGH);
   digitalWrite(RedLed,LOW);
-  delay(4000);
+  delay(2000);
   Serial.println("yellow light on!!!!!!!!!!!!!!!!!!!!!!!!!");
 
   
   digitalWrite(GreenLed,LOW);
   digitalWrite(YellowLed,LOW);
   digitalWrite(RedLed,HIGH);
-  delay(4000);
+  delay(5000);
   Serial.println("Red light on!!!!!!!!!!!!!!!!!!!!!!!!!");
 
 
